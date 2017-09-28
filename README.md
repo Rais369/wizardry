@@ -1,2 +1,3 @@
 # wizardry
 Magía
+Magia Pura
